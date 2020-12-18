@@ -1,0 +1,8 @@
+{
+    "name": "hexlet/code",
+    "description": "",
+    "require": {},
+    "bin": [
+        "bin/brain-games"
+      ]
+}
